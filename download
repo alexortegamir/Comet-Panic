@@ -1,0 +1,6 @@
+__pycache__/
+build/
+.venv/
+.vscode/
+*.py[cod]
+*Zone.Identifier
